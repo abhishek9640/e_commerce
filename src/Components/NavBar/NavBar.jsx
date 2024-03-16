@@ -32,6 +32,11 @@ let NavBar = () => {
               Contact Us
             </div>
           </Link>
+          <Link to="/SearchPage">
+            <div>
+              Search
+            </div>
+          </Link>
 
         </div>
 

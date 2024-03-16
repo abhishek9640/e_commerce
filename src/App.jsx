@@ -10,6 +10,7 @@ import Cart from "./Components/Pages/Cart"
 import Checkout from "./Components/Pages/Checkout"
 import AboutPage from './Components/Pages/AboutPage';
 import ContactPage from './Components/Pages/ContactPage';
+import SearchPage from './Components/Pages/SearchPage';
 function App() {
   return (
     <div className="App">
@@ -23,6 +24,7 @@ function App() {
           <Route path="/checkout" element={<Checkout/>}></Route>
           <Route path="/AboutUS" element={<AboutPage/>}></Route>
           <Route path="/ContactUS" element={<ContactPage/>}></Route>
+          <Route path="/SearchPage" element={<SearchPage/>}></Route>
         </Routes>
         </Provider>
       </Router>

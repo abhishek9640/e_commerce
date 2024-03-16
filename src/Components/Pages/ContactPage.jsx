@@ -12,7 +12,7 @@ const ContactPage = () => {
               <div class="form my-3">
                 <label for="Name">Name</label>
                 <input
-                  type="email"
+                  type="text"
                   class="form-control"
                   id="Name"
                   placeholder="Enter your name"
