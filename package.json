@@ -16,7 +16,7 @@
     "redux": "^4.2.1",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://zarfaa.github.io/React_Ecommerce/",
+  "homepage": "https://e-commerce-ten-sepia-60.vercel.app/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
